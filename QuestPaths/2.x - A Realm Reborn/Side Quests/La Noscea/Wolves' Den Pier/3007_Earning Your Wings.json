@@ -1,0 +1,21 @@
+﻿{
+  "$schema": "https://github.com/PunishXIV/Questionable/raw/refs/heads/main/QuestPaths/quest-v1.json",
+  "Author": "CryoTechnic",
+  "QuestSequence": [
+    {
+      "Sequence": 0,
+      "Steps": [
+        {
+          "DataId": 1024214,
+          "Position": {
+            "X": 57.358643,
+            "Y": 5.199998,
+            "Z": -32.333923
+          },
+          "TerritoryId": 250,
+          "InteractionType": "AcceptQuest"
+        }
+      ]
+    }
+  ]
+}
